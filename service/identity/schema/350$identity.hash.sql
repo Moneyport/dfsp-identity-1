@@ -13,5 +13,5 @@ CREATE TABLE identity."hash"
   "expireDate" timestamp,
   "isEnabled" boolean NOT NULL,
   CONSTRAINT "pkIdentityHash" PRIMARY KEY ("hashId"),
-  CONSTRAINT "ukIdentityHashType_Identifier" UNIQUE ("type", "identifier", "actorId")
+  CONSTRAINT "ukIdentityHashType_Identifier" UNIQUE ("type", "identifier")
 )
