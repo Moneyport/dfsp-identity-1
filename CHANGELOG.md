@@ -1,3 +1,13 @@
+<a name="0.10.6"></a>
+## [0.10.6](https://github.com/softwaregroup-bg/@mojaloop/dfsp-identity/compare/v0.10.5...v0.10.6) (2017-12-07)
+
+
+### Bug Fixes
+
+* move to mojaloop ([8995946](https://github.com/softwaregroup-bg/@mojaloop/dfsp-identity/commit/8995946))
+
+
+
 <a name="0.10.5"></a>
 ## [0.10.5](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-identity/compare/v0.10.4...v0.10.5) (2017-10-12)
 

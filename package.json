@@ -1,6 +1,6 @@
 {
   "name": "@mojaloop/dfsp-identity",
-  "version": "0.10.5",
+  "version": "0.10.7",
   "description": "DFSP Identity service",
   "main": "index.js",
   "scripts": {
@@ -54,9 +54,6 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:mojaloop/dfsp-identity.git"
-  },
-  "publishConfig": {
-    "registry": "https://modusbox.jfrog.io/modusbox/api/npm/level1-npm-release"
   },
   "author": "Kalin Krustev <kalin.krustev@softwaregroup-bg.com>",
   "license": "Apache-2.0"
